@@ -13,3 +13,4 @@ Só adicionar este repositório no seu projeto.
  - net.kaikk.mc:bcl:1.0 (BCLForgeLib)
  - org.bukkit:craftbukkit:1.7.10 (CraftBukkit Server)
  - io.github.juanmuscaria:mintasm:1.0 (MintASM com a lib Yamler)
+ - net.md-5:bungeecord-chat:1.7.10-SNAPSHOT (ChatComponent API)
