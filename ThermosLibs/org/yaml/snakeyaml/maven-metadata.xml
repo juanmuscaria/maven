@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.yaml</groupId>
+  <artifactId>snakeyaml</artifactId>
+  <versioning>
+    <release>1.16</release>
+    <versions>
+      <version>1.9</version>
+      <version>1.16</version>
+    </versions>
+    <lastUpdated>20160215152527</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>pw.prok</groupId>
+  <artifactId>Srg2Source</artifactId>
+  <version>3.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160209.125041</timestamp>
+      <buildNumber>16</buildNumber>
+    </snapshot>
+    <lastUpdated>20160209125041</lastUpdated>
+  </versioning>
+</metadata>

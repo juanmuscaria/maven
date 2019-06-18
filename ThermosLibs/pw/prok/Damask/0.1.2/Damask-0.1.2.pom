@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>pw.prok</groupId>
+  <artifactId>Damask</artifactId>
+  <version>0.1.2</version>
+  <packaging>pom</packaging>
+  <name>Damask</name>
+  <description>Lightweight replacement for Aether</description>
+  <url>https://gitlab.prok.pw/Prototik/Damask</url>
+  <scm>
+    <url>https://gitlab.prok.pw/Prototik/Damask</url>
+    <connection>https://gitlab.prok.pw/Prototik/Damask.git</connection>
+    <developerConnection>gitlab@prok.pw:Prototik/Damask.git</developerConnection>
+  </scm>
+  <licenses>
+    <license>
+      <name>LGPLv3+</name>
+      <url>https://gitlab.prok.pw/Prototik/Damask/raw/master/LICENCE</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>Prototik</id>
+      <name>Sergey Shatunov</name>
+      <email>me@prok.pw</email>
+    </developer>
+  </developers>
+</project>
