@@ -21,3 +21,4 @@ Para usar as libs do thermos só usar o:
  - org.bukkit:craftbukkit:1.7.10 (CraftBukkit Server)
  - io.github.juanmuscaria:mintasm:1.0 (MintASM com a lib Yamler)
  - net.md-5:bungeecord-chat:1.7.10-SNAPSHOT (ChatComponent API)
+ - com.gamerforea:EventHelper:1.7.10-1.11 (EventHelper)
