@@ -3,10 +3,11 @@
   <groupId>net.minecraftforge.gradle</groupId>
   <artifactId>ForgeGradle</artifactId>
   <versioning>
-    <latest>1.2-1.0.0-SNAPSHOT</latest>
+    <latest>1.2-1.0.1-SNAPSHOT</latest>
     <versions>
       <version>1.2-1.0.0-SNAPSHOT</version>
+      <version>1.2-1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210320202505</lastUpdated>
+     <lastUpdated>20210424213533</lastUpdated>
   </versioning>
 </metadata>
