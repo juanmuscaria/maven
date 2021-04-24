@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.eclipse.text</groupId>
+  <artifactId>org.eclipse.text</artifactId>
+  <version>3.5.101</version>
+  <name>Text</name>
+  <description>Text</description>
+  <url>http://www.eclipse.org</url>
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 1.0</name>
+      <url>http://www.eclipse.org/org/documents/epl-v10.html</url>
+    </license>
+  </licenses>
+     <scm>
+    <url></url>
+    <connection></connection>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>org.eclipse.core.commands</artifactId>
+      <version>3.6.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.equinox</groupId>
+      <artifactId>org.eclipse.equinox.common</artifactId>
+      <version>3.6.0</version>
+    </dependency>
+  </dependencies>
+  <developers>
+    <developer>
+      <id>eclipse</id>
+      <name>eclipse</name>     
+    </developer>
+  </developers>
+  
+</project>

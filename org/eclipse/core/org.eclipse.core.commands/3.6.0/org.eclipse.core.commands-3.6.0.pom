@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.eclipse.core</groupId>
+  <artifactId>org.eclipse.core.commands</artifactId>
+  <version>3.6.0</version>
+  <name>Eclipse Core Commands</name>
+  <description>Eclipse Core Commands</description>
+  <url>http://www.eclipse.org</url>
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 1.0</name>
+      <url>http://www.eclipse.org/org/documents/epl-v10.html</url>
+    </license>
+  </licenses>
+   <scm>
+    <url></url>
+    <connection></connection>
+  </scm>
+    <developers>
+    <developer>
+      <id>eclipse</id>
+      <name>eclipse</name>     
+    </developer>
+  </developers>
+</project>
