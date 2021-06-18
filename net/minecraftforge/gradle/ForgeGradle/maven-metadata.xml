@@ -3,7 +3,7 @@
   <groupId>net.minecraftforge.gradle</groupId>
   <artifactId>ForgeGradle</artifactId>
   <versioning>
-    <latest>1.2-1.3.3-SNAPSHOT</latest>
+    <latest>1.2-1.4.0-SNAPSHOT</latest>
     <versions>
       <version>1.2-1.0.0-SNAPSHOT</version>
       <version>1.2-1.0.1-SNAPSHOT</version>
@@ -13,7 +13,8 @@
       <version>1.2-1.3.1-SNAPSHOT</version>
       <version>1.2-1.3.2-SNAPSHOT</version>
       <version>1.2-1.3.3-SNAPSHOT</version>
+      <version>1.2-1.4.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210609170727</lastUpdated>
+    <lastUpdated>20210618213932</lastUpdated>
   </versioning>
 </metadata>
