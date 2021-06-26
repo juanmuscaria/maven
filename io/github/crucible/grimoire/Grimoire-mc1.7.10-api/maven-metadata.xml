@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.crucible.grimoire</groupId>
+  <artifactId>Grimoire-mc1.7.10-api</artifactId>
+  <versioning>
+    <latest>3.0.0-beta</latest>
+    <release>3.0.0-beta</release>
+    <versions>
+      <version>3.0.0-beta</version>
+    </versions>
+    <lastUpdated>20210626231543</lastUpdated>
+  </versioning>
+</metadata>
