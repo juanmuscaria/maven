@@ -3,13 +3,14 @@
   <groupId>io.github.crucible.grimoire</groupId>
   <artifactId>Grimoire-mc1.12.2</artifactId>
   <versioning>
-    <latest>3.0.2-beta</latest>
-    <release>3.0.2-beta</release>
+    <latest>3.0.3-beta</latest>
+    <release>3.0.3-beta</release>
     <versions>
       <version>3.0.0-beta</version>
       <version>3.0.1-beta</version>
       <version>3.0.2-beta</version>
+      <version>3.0.3-beta</version>
     </versions>
-    <lastUpdated>20210627051738</lastUpdated>
+    <lastUpdated>20210627071958</lastUpdated>
   </versioning>
 </metadata>
