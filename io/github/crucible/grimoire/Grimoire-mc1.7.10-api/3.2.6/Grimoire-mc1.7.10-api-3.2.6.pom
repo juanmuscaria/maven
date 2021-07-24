@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.crucible.grimoire</groupId>
+  <artifactId>Grimoire-mc1.7.10-api</artifactId>
+  <version>3.2.6</version>
+  <name>Grimoire-mc1.7.10</name>
+  <description>The almighty Grimoire framework</description>
+  <url>https://github.com/CrucibleMC/Grimoire</url>
+  <developers>
+    <developer>
+      <id>CrucibleMC</id>
+      <name>CrucibleMC Team</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>Aizistral</id>
+      <name>Aizistral</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/CrucibleMC/Grimoire/issues</url>
+  </issueManagement>
+</project>
