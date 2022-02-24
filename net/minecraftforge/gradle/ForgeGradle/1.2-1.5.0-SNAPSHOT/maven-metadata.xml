@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.minecraftforge.gradle</groupId>
+  <artifactId>ForgeGradle</artifactId>
+  <version>1.2-1.5.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220224.114609</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20220224114609</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.2-1.5.0-20220224.114609-1</value>
+        <updated>20220224114609</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2-1.5.0-20220224.114609-1</value>
+        <updated>20220224114609</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
