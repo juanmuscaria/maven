@@ -1,0 +1,197 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.cruciblemc",
+    "module": "CrucibleGradle",
+    "version": "1.1-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.anatawa12.forge",
+          "module": "ForgeGradle",
+          "version": {
+            "requires": "1.2-1.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "CrucibleGradle-1.1-SNAPSHOT.jar",
+          "url": "CrucibleGradle-1.1-SNAPSHOT.jar",
+          "size": 2354163,
+          "sha512": "cc5b549a03692b2dcddc5dc124060e19829982b11e166e47da6d635e0c5c128418cb3abd541aa792381baebd03eb289163bc78e04a860921e53d5266cbfd4d00",
+          "sha256": "7ce4d1a7e0359718e4c63b5ec290e4eea1fff669934178310ab06ffbbf77fbd3",
+          "sha1": "927a5ed7a1dd92ffc2555579e813e72ddc4df6d8",
+          "md5": "f0120cae180725b2d802e0e267153e90"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.4"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-tree",
+          "version": {
+            "requires": "9.4"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "31.1-jre"
+          }
+        },
+        {
+          "group": "com.opencsv",
+          "module": "opencsv",
+          "version": {
+            "requires": "5.7.0"
+          }
+        },
+        {
+          "group": "com.cloudbees",
+          "module": "diff4j",
+          "version": {
+            "requires": "1.3"
+          }
+        },
+        {
+          "group": "com.github.abrarsyed.jastyle",
+          "module": "jAstyle",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "net.sf.trove4j",
+          "module": "trove4j",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "com.github.jponge",
+          "module": "lzma-java",
+          "version": {
+            "requires": "1.3"
+          }
+        },
+        {
+          "group": "com.nothome",
+          "module": "javaxdelta",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "com.anatawa12.forge",
+          "module": "SpecialSource",
+          "version": {
+            "requires": "1.11.1"
+          }
+        },
+        {
+          "group": "org.apache.httpcomponents",
+          "module": "httpclient",
+          "version": {
+            "requires": "4.5.14"
+          }
+        },
+        {
+          "group": "org.apache.httpcomponents",
+          "module": "httpmime",
+          "version": {
+            "requires": "4.5.14"
+          }
+        },
+        {
+          "group": "de.oceanlabs.mcp",
+          "module": "RetroGuard",
+          "version": {
+            "requires": "3.6.6"
+          }
+        },
+        {
+          "group": "de.oceanlabs.mcp",
+          "module": "mcinjector",
+          "version": {
+            "requires": "3.2-SNAPSHOT"
+          }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "Srg2Source",
+          "version": {
+            "requires": "4.2.7"
+          }
+        },
+        {
+          "group": "com.github.tony19",
+          "module": "named-regexp",
+          "version": {
+            "requires": "0.2.3"
+          }
+        },
+        {
+          "group": "com.anatawa12.forge",
+          "module": "ForgeGradle",
+          "version": {
+            "requires": "1.2-1.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "CrucibleGradle-1.1-SNAPSHOT.jar",
+          "url": "CrucibleGradle-1.1-SNAPSHOT.jar",
+          "size": 2354163,
+          "sha512": "cc5b549a03692b2dcddc5dc124060e19829982b11e166e47da6d635e0c5c128418cb3abd541aa792381baebd03eb289163bc78e04a860921e53d5266cbfd4d00",
+          "sha256": "7ce4d1a7e0359718e4c63b5ec290e4eea1fff669934178310ab06ffbbf77fbd3",
+          "sha1": "927a5ed7a1dd92ffc2555579e813e72ddc4df6d8",
+          "md5": "f0120cae180725b2d802e0e267153e90"
+        }
+      ]
+    }
+  ]
+}

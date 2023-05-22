@@ -3,10 +3,11 @@
   <groupId>io.github.cruciblemc</groupId>
   <artifactId>CrucibleGradle</artifactId>
   <versioning>
-    <latest>1.0-SNAPSHOT</latest>
+    <latest>1.1-SNAPSHOT</latest>
     <versions>
       <version>1.0-SNAPSHOT</version>
+      <version>1.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230521184501</lastUpdated>
+    <lastUpdated>20230522152859</lastUpdated>
   </versioning>
 </metadata>
