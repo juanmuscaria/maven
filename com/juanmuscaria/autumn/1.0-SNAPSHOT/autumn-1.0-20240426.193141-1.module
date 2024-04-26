@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.juanmuscaria",
+    "module": "autumn",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 19,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "autumn-1.0-SNAPSHOT.jar",
+          "url": "autumn-1.0-SNAPSHOT.jar",
+          "size": 261,
+          "sha512": "ae325370c05bfb5241ebab80b7a0281dc09b6a0051b462a8ddc361419d7686c0a65d38d269ebbc614f2e3b67cd3b3c7331ec6161dfdde7f04d181454ee6366d3",
+          "sha256": "c6921678dbffde506c03a2de2a02cee66c58e994dd0219ebd8f0f537230efbe0",
+          "sha1": "2ce1d2a9446d93139fc9697429bf24a2cae25ea7",
+          "md5": "1e05447d2cb76d517b2687b202cb2f41"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 19,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.juanmuscaria",
+          "module": "autumn-messages",
+          "version": {
+            "requires": "1.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.juanmuscaria",
+          "module": "autumn-resources",
+          "version": {
+            "requires": "1.0-SNAPSHOT"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "autumn-1.0-SNAPSHOT.jar",
+          "url": "autumn-1.0-SNAPSHOT.jar",
+          "size": 261,
+          "sha512": "ae325370c05bfb5241ebab80b7a0281dc09b6a0051b462a8ddc361419d7686c0a65d38d269ebbc614f2e3b67cd3b3c7331ec6161dfdde7f04d181454ee6366d3",
+          "sha256": "c6921678dbffde506c03a2de2a02cee66c58e994dd0219ebd8f0f537230efbe0",
+          "sha1": "2ce1d2a9446d93139fc9697429bf24a2cae25ea7",
+          "md5": "1e05447d2cb76d517b2687b202cb2f41"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "autumn-1.0-SNAPSHOT-sources.jar",
+          "url": "autumn-1.0-SNAPSHOT-sources.jar",
+          "size": 261,
+          "sha512": "ae325370c05bfb5241ebab80b7a0281dc09b6a0051b462a8ddc361419d7686c0a65d38d269ebbc614f2e3b67cd3b3c7331ec6161dfdde7f04d181454ee6366d3",
+          "sha256": "c6921678dbffde506c03a2de2a02cee66c58e994dd0219ebd8f0f537230efbe0",
+          "sha1": "2ce1d2a9446d93139fc9697429bf24a2cae25ea7",
+          "md5": "1e05447d2cb76d517b2687b202cb2f41"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "autumn-1.0-SNAPSHOT-javadoc.jar",
+          "url": "autumn-1.0-SNAPSHOT-javadoc.jar",
+          "size": 261,
+          "sha512": "ae325370c05bfb5241ebab80b7a0281dc09b6a0051b462a8ddc361419d7686c0a65d38d269ebbc614f2e3b67cd3b3c7331ec6161dfdde7f04d181454ee6366d3",
+          "sha256": "c6921678dbffde506c03a2de2a02cee66c58e994dd0219ebd8f0f537230efbe0",
+          "sha1": "2ce1d2a9446d93139fc9697429bf24a2cae25ea7",
+          "md5": "1e05447d2cb76d517b2687b202cb2f41"
+        }
+      ]
+    }
+  ]
+}
