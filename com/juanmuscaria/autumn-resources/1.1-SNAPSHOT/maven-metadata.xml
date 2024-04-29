@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.juanmuscaria</groupId>
+  <artifactId>autumn-resources</artifactId>
+  <versioning>
+    <lastUpdated>20240429110814</lastUpdated>
+    <snapshot>
+      <timestamp>20240429.110814</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-20240429.110814-1</value>
+        <updated>20240429110814</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1-20240429.110814-1</value>
+        <updated>20240429110814</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.1-20240429.110814-1</value>
+        <updated>20240429110814</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.1-20240429.110814-1</value>
+        <updated>20240429110814</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.1-SNAPSHOT</version>
+</metadata>
